@@ -32,3 +32,10 @@ that include the weights saved from the training of segmentation, and modificati
 abnormal case.
 
 ![classification model](https://user-images.githubusercontent.com/66222519/199695058-1da03b9c-12b9-4b34-a461-444c90e1649e.png)
+
+##### Detection of Breast Cancer based on Segmentation of Abnormalities using Deep Learning models
+##### August 2022
+##### DOI: 10.6084/m9.figshare.20424690.v1
+##### Thesis for: Master of Data Science
+##### Advisor: Younes KABBADJ
+##### Project: Detection of Breast Cancer based on Segmentation of Abnormalities using Deep Learning models
